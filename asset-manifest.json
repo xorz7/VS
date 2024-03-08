@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/VS/static/css/main.52164b2a.css",
+    "main.css": "/VS/static/css/main.8fdb84f1.css",
     "main.js": "/VS/static/js/main.ab4c1fac.js",
+    "static/media/Formula1-Regular-1.ttf": "/VS/static/media/Formula1-Regular-1.0f4e3d54644717199c6f.ttf",
     "index.html": "/VS/index.html",
-    "main.52164b2a.css.map": "/VS/static/css/main.52164b2a.css.map",
+    "main.8fdb84f1.css.map": "/VS/static/css/main.8fdb84f1.css.map",
     "main.ab4c1fac.js.map": "/VS/static/js/main.ab4c1fac.js.map"
   },
   "entrypoints": [
-    "static/css/main.52164b2a.css",
+    "static/css/main.8fdb84f1.css",
     "static/js/main.ab4c1fac.js"
   ]
 }
